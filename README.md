@@ -1,4 +1,4 @@
-#Webpack 4 demo file
+# Webpack 4 demo file
 Keep this repo as an example for future non-react or non-angular client projects. Great starter with webpack. In this example (see the [webpack config file](./webpack.common.js)) we use...
 
 1. Transpiling JS
