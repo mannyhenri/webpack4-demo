@@ -9,6 +9,7 @@ Keep this repo as an example for future non-react or non-angular client projects
 6. Webpack config files for dev & prod (move specific rules to dev and prod)
 7. Dist clean and HTML automatically generated with webpack
 
-TODO: [add source maps](https://webpack.js.org/guides/development/#using-source-maps)
-TODO: [loading fonts](https://webpack.js.org/guides/asset-management/#loading-fonts)
-TODO: [loading data](https://webpack.js.org/guides/asset-management/#loading-data)
+## Todos:
+- TODO: [add source maps](https://webpack.js.org/guides/development/#using-source-maps)
+- TODO: [loading fonts](https://webpack.js.org/guides/asset-management/#loading-fonts)
+- TODO: [loading data](https://webpack.js.org/guides/asset-management/#loading-data)
